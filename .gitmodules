@@ -1,6 +1,6 @@
 [submodule "protos_files_job"]
 	path = protos_files_job
-	url = git@github.com:Sanchir01/protos_files_job.git
+	url = https://github.com/Sanchir01/protos_files_job.git
 [submodule "microservice"]
 	path = microservice
-	url = git@github.com:Sanchir01/microservice.git
+	url = https://github.com/Sanchir01/microservice.git
