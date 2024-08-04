@@ -4,3 +4,6 @@
 [submodule "microservice"]
 	path = microservice
 	url = https://github.com/Sanchir01/microservice.git
+[submodule "main_microservice_jobs"]
+	path = main_microservice_jobs
+	url = https://github.com/Sanchir01/main_microservice_jobs.git
