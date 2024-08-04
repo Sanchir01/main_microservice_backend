@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main_microservice_jobs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main_microservice_jobs/microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main_microservice_jobs/protos_files_job" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/protos_files_job" vcs="Git" />
   </component>
