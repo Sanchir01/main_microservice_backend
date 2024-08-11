@@ -4,6 +4,12 @@
 [submodule "microservice"]
 	path = microservice
 	url = https://github.com/Sanchir01/microservice.git
-[submodule "main_microservice_jobs"]
-	path = main_microservice_jobs
-	url = https://github.com/Sanchir01/main_microservice_jobs.git
+[submodule "microservice_sandjma_category"]
+	path = microservice_sandjma_category
+	url = https://github.com/Sanchir01/microservice_sandjma_category.git
+[submodule "sandjma_graphql"]
+	path = sandjma_graphql
+	url = https://github.com/Sanchir01/sandjma_graphql.git
+[submodule "microservice_sandjma_products"]
+	path = microservice_sandjma_products
+	url = https://github.com/Sanchir01/microservice_sandjma_products.git
